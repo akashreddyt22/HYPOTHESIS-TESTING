@@ -28,9 +28,5 @@ weekly operating costs have increased.
 3. Determine the critical value
 4. Make a decision and conclusion
 
-## Files
-- `hypothesis_testing.ipynb` — full analysis with calculations
-- `report.pdf` / `report.docx` — written report/answers
-
 ## Tools Used
 - Python (NumPy, SciPy) / Excel [pick whichever you're actually using]
